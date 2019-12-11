@@ -1,0 +1,37 @@
+/* START OF EXPLORE PAGE STYLING */
+
+.recSection p{
+    text-align: center; 
+}
+
+#followButton {
+    background-color: #3897f0;
+    color: white;
+    border-radius: 4px;
+}
+
+.xProfileImage{
+    border-radius: 50%;
+    width:100px;
+    height:100px; 
+}
+
+.recCard {
+    background-color: white;
+    border-radius: 8px;
+    border: .5px solid;
+    border-color: lightgray;
+    margin: 4px;
+    padding: 12px;
+}
+
+.subtext {
+    color: grey;
+}
+
+.sectionTitle {
+    color: grey;
+    font-size: 16px;
+    font-weight: bold;
+    margin-top:8px;
+}
